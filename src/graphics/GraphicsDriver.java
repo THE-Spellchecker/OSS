@@ -62,7 +62,7 @@ public class GraphicsDriver {
 		rButton2.addActionListener(e -> Interaction.generateComments());
 		
 		
-		//Button to Apply Spelling Corrections and Propogate changes
+		//Button to Apply Spelling Corrections and Propagate changes
 		
 		JButton rButton3 = new JButton();
 		rButton3.setBounds(140, 200, 300, 50);

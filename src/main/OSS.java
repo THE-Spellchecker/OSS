@@ -28,7 +28,7 @@ public class OSS {
 	}
 
 	/**
-	 * Setup the program
+	 * Set up the program
 	 */
 	private void initialize() {
 		checkVersion();
